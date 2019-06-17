@@ -16,11 +16,11 @@
 title: vdkhadke's github page
 email: vdkhadke@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Starting with some web presence to kick off blogging perhaps?
-baseurl: "" # the subpath of your site, e.g. /blog
+  Starting with some web presence to kick off blogging.
+baseurl: "https:://vdkhadke.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: amateur_hour15
+github_username:  vdkhadke
 
 # Build settings
 markdown: kramdown
