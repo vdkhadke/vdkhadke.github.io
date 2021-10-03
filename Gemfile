@@ -11,11 +11,8 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-#gem 'jekyll-theme-midnight', '~> 0.0.3'
+gem 'jekyll-theme-midnight', '~> 0.0.3'
 
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
