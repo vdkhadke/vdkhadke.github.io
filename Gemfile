@@ -30,7 +30,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 # Per recommendations from dependabot.
-gem "addressable", ">= 2.8.0"
-gem "kramdown", ">= 2.3.1"
+#gem "addressable", ">= 2.8.0"
+#gem "kramdown", ">= 2.3.1"
 
 
