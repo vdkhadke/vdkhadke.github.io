@@ -18,7 +18,7 @@ email: email-do-not-spam@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Beginning Github Pages using Jekyll. This might take some getting used to.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "vdkhadke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amateur_hour15
 github_username:  vdkhadke
 
