@@ -22,6 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amateur_hour15
 github_username:  vdkhadke
 
+
+repository: vdkhadke/vdkhadke.github.io
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-midnight
