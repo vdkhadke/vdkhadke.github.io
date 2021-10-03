@@ -24,7 +24,7 @@ github_username:  vdkhadke
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 remote_theme: pages-themes/merlot@v0.2.0
