@@ -29,7 +29,8 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
-# Per recommendation from dependabot.
+# Per recommendations from dependabot.
 gem "addressable", ">= 2.8.0"
+gem "kramdown", ">= 2.3.1"
 
 
