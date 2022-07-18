@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 This is my attempt at Jekyll blogging on Github. Had to start somewhere.
+
+
 10/8/19: Adding in new record for the day
 
 You can find me at GitHub:
