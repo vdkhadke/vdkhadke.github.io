@@ -1,11 +1,10 @@
-/_site
-/.sass-cache
-/.jekyll-cache
-/out
-/.next
-/.jekyll-metadata
-/node-modules
+.sass-cache
+.jekyll-cache
+out
+.next
+.jekyll-metadata
 
 # production
 /build
 
+node_modules
