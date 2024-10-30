@@ -1,6 +1,6 @@
 # Next.js GitHub Pages
 
-Forked from [nextjs-gh-pages](https://github.com/gregrickaby/nextjs-github-pages) by gregrickaby.
+Forked from [nextjs-gh-pages](https://github.com/gregrickaby/nextjs-github-pages) by gregrickaby, to use GH-pages with next js enabling ssr.
 Deploy Next.js to GitHub Pages with GitHub Actions. [View the deployed app](https://vdkhadke.github.io) 🚀
 
 Now with Next.js App Router support! If you need Pages Router support [click here](https://github.com/vdkhadke/nextjs-github-pages/releases/tag/pages_dir).
