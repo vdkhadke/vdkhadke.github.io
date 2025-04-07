@@ -1,6 +1,6 @@
 # Next.js GitHub Pages
 
-Forked from [nextjs-gh-pages](https://github.com/gregrickaby/nextjs-github-pages) by gregrickaby, to use GH-pages with next js enabling ssr.
+Forked from [nextjs-gh-pages](https://github.com/gregrickaby/nextjs-github-pages) by gregrickaby.
 Deploy Next.js to GitHub Pages with GitHub Actions. [View the deployed app](https://vdkhadke.github.io) 🚀
 
 Now with Next.js App Router support! If you need Pages Router support [click here](https://github.com/vdkhadke/nextjs-github-pages/releases/tag/pages_dir).
@@ -100,14 +100,14 @@ The following settings use the [Github Action Deploy Pages](https://github.com/a
 2. Click "Pages" in the sidebar
 3. Under "Build and Deployment", select "GitHub Actions" as the source:
 
-![screenshot of github pages settings](https://github.com/vdkhadke/vdkhadke.github.io/assets/200280/a5f757c3-f515-4ca2-aadf-d2979c2c3bf5)
+![screenshot of github pages settings](https://github.com/gregrickaby/nextjs-github-pages/assets/200280/a5f757c3-f515-4ca2-aadf-d2979c2c3bf5)
 
 ### Setup GitHub Action
 
-This is where the magic happens! This [workflow file](https://github.com/vdkhadke/vdkhadke.github.io/blob/main/.github/workflows/deploy.yml) will automatically build and deploy the app when you push to the `main` branch.
+This is where the magic happens! This [workflow file](https://github.com/gregrickaby/nextjs-github-pages/blob/main/.github/workflows/deploy.yml) will automatically build and deploy the app when you push to the `main` branch.
 
 1. Create `.github/workflows/deploy.yml` file
-2. Paste the contents of <https://github.com/vdkhadke/vdkhadke.github.io/blob/main/.github/workflows/deploy.yml>
+2. Paste the contents of <https://github.com/gregrickaby/nextjs-github-pages/blob/main/.github/workflows/deploy.yml>
 3. Save the `deploy.yml` file
 
 ### Push to GitHub
@@ -124,6 +124,6 @@ You should see your site deployed to GitHub Pages in a few minutes. 🚀
 
 ## Wrap up
 
-Thanks for reading and I hope this helps. If you noticed someting wrong, please [file an issue](https://github.com/vdkhadke/vdkhadke.github.io/issues). Good luck! 🍻
+Thanks for reading and I hope this helps. If you noticed someting wrong, please [file an issue](https://github.com/gregrickaby/nextjs-github-pages/issues). Good luck! 🍻
 
 ---
