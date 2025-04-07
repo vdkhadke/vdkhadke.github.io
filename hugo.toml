@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = "vdk's musings"
 #theme = 'ananke'
 theme = "PaperMod"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
