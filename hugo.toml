@@ -1,0 +1,5 @@
+baseURL = 'https://vdkhadke.github.io/'
+languageCode = 'en-us'
+title = "vdk's musings"
+#theme = 'ananke'
+theme = "PaperMod"
